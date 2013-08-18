@@ -1,0 +1,23 @@
+body {
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+
+#txt-red{
+	background-color: #f00606;
+	padding: 10px;
+}
+
+#txt-green{
+	background-color: #3afd04;
+	padding: 10px;
+	
+}
+
+#f-non{
+	float: none;	
+}
+
+form{
+	float: right;
+}
